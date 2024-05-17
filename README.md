@@ -753,4 +753,4 @@ RUN Rscript -e 'install.packages(c("DBI","odbc"))'
 ```
 
 ## Contact
-Need update? Contact me on [LinkedIn](https://www.linkedin.com/in/hmquan1996/).
+Need update? Contact me on [LinkedIn](https://www.linkedin.com/in/fikih-firmansyah/).
